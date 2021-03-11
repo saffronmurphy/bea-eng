@@ -41,8 +41,7 @@ h3 {
 }
 
 .green-section {
-  /* background-color: #44878B; */
-  background-color: red;
+  background-color: #44878B;
   color: #fff;
 }
 
@@ -89,6 +88,12 @@ h3 {
   color: #fff;
   background-color: #44878B;
   border-color: #44878B;
+}
+
+@media (max-width:992px) {
+  .contact-button {
+    width: 50%;
+  }
 }
 
 @media (max-width:992px) {
