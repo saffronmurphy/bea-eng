@@ -41,7 +41,8 @@ h3 {
 }
 
 .green-section {
-  background-color: #44878B;
+  /* background-color: #44878B; */
+  background-color: red;
   color: #fff;
 }
 
